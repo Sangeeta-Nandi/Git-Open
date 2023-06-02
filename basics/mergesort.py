@@ -14,6 +14,7 @@ def mergesort(array):
         return array
 
     m = len(array) // 2
+    ih aieuhfieufioeurfbhheiuwhiweuvrbiuywvebfhi
     debug_print(m=m)
 
     left = mergesort(array[:m])
